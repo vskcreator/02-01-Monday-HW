@@ -8,8 +8,8 @@ python3 -v venv venv
 - активировать окружение
 source venv/bin/activate
 
-- проверить пип3 \n
-### pip list
+- проверить пип3
+## pip list
 
 - обновить пип3
 pip3 install —upgrade pip
