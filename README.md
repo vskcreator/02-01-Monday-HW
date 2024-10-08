@@ -9,7 +9,7 @@ python3 -v venv venv
 source venv/bin/activate
 
 - проверить пип3
-(pip list)
+[pip list]
 
 - обновить пип3
 pip3 install —upgrade pip
